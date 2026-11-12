@@ -26,10 +26,6 @@ def setup_and_sync_github(repo_url, branch="main", commit_msg="Auto-Update v14.0
         msg = commit_res.stdout.strip() if commit_res.stdout else 'Keine neuen Aenderungen'
         print('[Git-Sync] Commit-Status: ' + str(msg))
 
-        # Explizites Umbenennen des lokalen Branches zu 'main'
-        print('[Git-Sync] Setze lokalen Branch-Namen auf ' + str(branch) + '...')
-        subprocess.run(['git', 'branch', '-M', branch], check=True)
-
         # Push zu Remote
         print('[Git-Sync] Pushe Code an ' + str(branch) + '...')
         push_res = subprocess.run(['git', 'push', '-u', 'origin', branch, '--force'], capture_output=True, text=True)
