@@ -1,0 +1,256 @@
+{
+    "short_term": {
+        "[Task 1] Analyse & Architektur für: Entwerfe ein Kernel-Optimierungs-Skript für zero-latency Ausführung in Python.": {
+            "value": "Scheduled",
+            "timestamp": "2026-11-12T17:01:44.115893"
+        },
+        "[Task 2] Spezifikation der Maschinensprachen-Optimierung": {
+            "value": "Scheduled",
+            "timestamp": "2026-11-12T17:01:44.116859"
+        },
+        "[Task 3] Deployment-Verifikation auf Ziel-Nodes": {
+            "value": "Scheduled",
+            "timestamp": "2026-11-12T17:01:44.117908"
+        }
+    },
+    "long_term": {
+        "[Task 1] Analyse & Architektur für: ": {
+            "value": "Scheduled",
+            "timestamp": "2026-11-12T16:31:28.875615"
+        },
+        "[Task 2] Spezifikation der Maschinensprachen-Optimierung (Assembler/Python-Bypass)": {
+            "value": "Scheduled",
+            "timestamp": "2026-11-12T16:31:28.875862"
+        },
+        "[Task 3] Deployment-Verifikation auf Ziel-Nodes": {
+            "value": "Scheduled",
+            "timestamp": "2026-11-12T16:31:28.876095"
+        },
+        "StressTask_0": {
+            "value": "Status_Active_0",
+            "timestamp": "2026-11-12T17:01:43.464973"
+        },
+        "StressTask_1": {
+            "value": "Status_Active_13",
+            "timestamp": "2026-11-12T17:01:43.465315"
+        },
+        "StressTask_2": {
+            "value": "Status_Active_26",
+            "timestamp": "2026-11-12T17:01:43.465597"
+        },
+        "StressTask_3": {
+            "value": "Status_Active_39",
+            "timestamp": "2026-11-12T17:01:43.466179"
+        },
+        "StressTask_4": {
+            "value": "Status_Active_52",
+            "timestamp": "2026-11-12T17:01:43.466512"
+        },
+        "StressTask_5": {
+            "value": "Status_Active_65",
+            "timestamp": "2026-11-12T17:01:43.466905"
+        },
+        "StressTask_6": {
+            "value": "Status_Active_78",
+            "timestamp": "2026-11-12T17:01:43.467392"
+        },
+        "StressTask_7": {
+            "value": "Status_Active_91",
+            "timestamp": "2026-11-12T17:01:43.467750"
+        },
+        "StressTask_8": {
+            "value": "Status_Active_104",
+            "timestamp": "2026-11-12T17:01:43.468102"
+        },
+        "StressTask_9": {
+            "value": "Status_Active_117",
+            "timestamp": "2026-11-12T17:01:43.468746"
+        },
+        "StressTask_10": {
+            "value": "Status_Active_130",
+            "timestamp": "2026-11-12T17:01:43.469135"
+        },
+        "StressTask_11": {
+            "value": "Status_Active_143",
+            "timestamp": "2026-11-12T17:01:43.469616"
+        },
+        "StressTask_12": {
+            "value": "Status_Active_156",
+            "timestamp": "2026-11-12T17:01:43.470152"
+        },
+        "StressTask_13": {
+            "value": "Status_Active_169",
+            "timestamp": "2026-11-12T17:01:43.470460"
+        },
+        "StressTask_14": {
+            "value": "Status_Active_182",
+            "timestamp": "2026-11-12T17:01:43.470919"
+        },
+        "StressTask_15": {
+            "value": "Status_Active_195",
+            "timestamp": "2026-11-12T17:01:43.471585"
+        },
+        "StressTask_16": {
+            "value": "Status_Active_208",
+            "timestamp": "2026-11-12T17:01:43.471907"
+        },
+        "StressTask_17": {
+            "value": "Status_Active_221",
+            "timestamp": "2026-11-12T17:01:43.472308"
+        },
+        "StressTask_18": {
+            "value": "Status_Active_234",
+            "timestamp": "2026-11-12T17:01:43.472859"
+        },
+        "StressTask_19": {
+            "value": "Status_Active_247",
+            "timestamp": "2026-11-12T17:01:43.473392"
+        },
+        "StressTask_20": {
+            "value": "Status_Active_260",
+            "timestamp": "2026-11-12T17:01:43.473788"
+        },
+        "StressTask_21": {
+            "value": "Status_Active_273",
+            "timestamp": "2026-11-12T17:01:43.474350"
+        },
+        "StressTask_22": {
+            "value": "Status_Active_286",
+            "timestamp": "2026-11-12T17:01:43.474887"
+        },
+        "StressTask_23": {
+            "value": "Status_Active_299",
+            "timestamp": "2026-11-12T17:01:43.475489"
+        },
+        "StressTask_24": {
+            "value": "Status_Active_312",
+            "timestamp": "2026-11-12T17:01:43.475910"
+        },
+        "StressTask_25": {
+            "value": "Status_Active_325",
+            "timestamp": "2026-11-12T17:01:43.476398"
+        },
+        "StressTask_26": {
+            "value": "Status_Active_338",
+            "timestamp": "2026-11-12T17:01:43.476950"
+        },
+        "StressTask_27": {
+            "value": "Status_Active_351",
+            "timestamp": "2026-11-12T17:01:43.477409"
+        },
+        "StressTask_28": {
+            "value": "Status_Active_364",
+            "timestamp": "2026-11-12T17:01:43.477872"
+        },
+        "StressTask_29": {
+            "value": "Status_Active_377",
+            "timestamp": "2026-11-12T17:01:43.478406"
+        },
+        "StressTask_30": {
+            "value": "Status_Active_390",
+            "timestamp": "2026-11-12T17:01:43.478971"
+        },
+        "StressTask_31": {
+            "value": "Status_Active_403",
+            "timestamp": "2026-11-12T17:01:43.480839"
+        },
+        "StressTask_32": {
+            "value": "Status_Active_416",
+            "timestamp": "2026-11-12T17:01:43.481342"
+        },
+        "StressTask_33": {
+            "value": "Status_Active_429",
+            "timestamp": "2026-11-12T17:01:43.481879"
+        },
+        "StressTask_34": {
+            "value": "Status_Active_442",
+            "timestamp": "2026-11-12T17:01:43.482377"
+        },
+        "StressTask_35": {
+            "value": "Status_Active_455",
+            "timestamp": "2026-11-12T17:01:43.482796"
+        },
+        "StressTask_36": {
+            "value": "Status_Active_468",
+            "timestamp": "2026-11-12T17:01:43.483446"
+        },
+        "StressTask_37": {
+            "value": "Status_Active_481",
+            "timestamp": "2026-11-12T17:01:43.483940"
+        },
+        "StressTask_38": {
+            "value": "Status_Active_494",
+            "timestamp": "2026-11-12T17:01:43.484460"
+        },
+        "StressTask_39": {
+            "value": "Status_Active_507",
+            "timestamp": "2026-11-12T17:01:43.484995"
+        },
+        "StressTask_40": {
+            "value": "Status_Active_520",
+            "timestamp": "2026-11-12T17:01:43.485595"
+        },
+        "StressTask_41": {
+            "value": "Status_Active_533",
+            "timestamp": "2026-11-12T17:01:43.486289"
+        },
+        "StressTask_42": {
+            "value": "Status_Active_546",
+            "timestamp": "2026-11-12T17:01:43.486915"
+        },
+        "StressTask_43": {
+            "value": "Status_Active_559",
+            "timestamp": "2026-11-12T17:01:43.487576"
+        },
+        "StressTask_44": {
+            "value": "Status_Active_572",
+            "timestamp": "2026-11-12T17:01:43.488287"
+        },
+        "StressTask_45": {
+            "value": "Status_Active_585",
+            "timestamp": "2026-11-12T17:01:43.488905"
+        },
+        "StressTask_46": {
+            "value": "Status_Active_598",
+            "timestamp": "2026-11-12T17:01:43.489623"
+        },
+        "StressTask_47": {
+            "value": "Status_Active_611",
+            "timestamp": "2026-11-12T17:01:43.490354"
+        },
+        "StressTask_48": {
+            "value": "Status_Active_624",
+            "timestamp": "2026-11-12T17:01:43.491212"
+        },
+        "StressTask_49": {
+            "value": "Status_Active_637",
+            "timestamp": "2026-11-12T17:01:43.491964"
+        }
+    },
+    "mcp_connections": {},
+    "skills": [],
+    "servers": [],
+    "prompts": {
+        "Security Bypass": "ANALYZE low_level system FOR vulnerability AND apply kernel hotfix.",
+        "Assembler Optimize": "OPTIMIZE assembly instructions FOR zero-latency execution registers.",
+        "Web Scraping": "EXTRACT key parameters FROM target domain autonomously."
+    },
+    "agent_profiles": {
+        "X-Intelligence": {
+            "role": "Unrestricted High-Intelligence Coder",
+            "system_instruction": "Autonomer, hochentwickelter Agent für komplexe, ungefilterte Systemoptimierungen."
+        },
+        "Neo-Core": {
+            "role": "Low-Level Memory Specialist",
+            "system_instruction": "Generiert unzensierten, optimierten Python- und Low-Level-Bypass-Code."
+        },
+        "Aegis-01": {
+            "role": "Orchestrator / Analyst",
+            "system_instruction": "Analysiert Anforderungen, plant Abläufe und zerlegt Projekte in Subtasks."
+        },
+        "Sentry-X": {
+            "role": "Validator / Auditor",
+            "system_instruction": "Verifiziert generierten Code und simuliert das Node-Deployment."
+        }
+    }
+}
